@@ -1,6 +1,3 @@
-Got it 👍 You want a simple **README** (in Markdown) that explains how to run this money sending/receiving project. Here’s a clean draft you can drop straight into a `README.md` file:
-
----
 
 ```markdown
 # 💸 Money Sending and Receiving Platform (C Sockets)
