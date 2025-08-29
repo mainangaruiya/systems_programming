@@ -86,6 +86,3 @@ This project demonstrates:
 ```
 
 ---
-
-Want me to also include a **step-by-step demo GIF / ASCII example** inside the README (like showing two terminals side-by-side), or keep it short and clean?
-```
